@@ -1,4 +1,4 @@
-# 🚀 Guía de Despliegue a GitHub Pages
+no# 🚀 Guía de Despliegue a GitHub Pages
 
 ## 📋 Pasos para Subir el Proyecto
 
@@ -76,9 +76,9 @@ npm run build
 ```
 Los archivos se generan en `/dist`
 
-## 📱 Compartir con el Reclutador
+##
 
-Envíale este link:
+ este link:
 ```
 https://ferchunet.github.io/one-page-love/
 ```
@@ -98,12 +98,6 @@ https://github.com/Ferchunet/one-page-love
 - [ ] Todos los links funcionan
 - [ ] Imágenes se cargan correctamente
 
-## 💡 Tips
-
-1. **Primera vez puede tardar más**: El primer deployment tarda 2-3 minutos
-2. **Caché del navegador**: Si no ves cambios, presiona Ctrl+Shift+R
-3. **Ver logs**: En Actions > Click en el workflow > Ver detalles
-4. **Errores**: Si falla, revisa los logs en la pestaña Actions
 
 ## 🎨 Personalización
 
@@ -118,5 +112,5 @@ export default defineConfig({
 
 ---
 
-**¡Éxito con tu prueba técnica!** 🚀
+
 
